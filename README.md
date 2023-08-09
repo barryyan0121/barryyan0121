@@ -2,7 +2,7 @@
 
 [![Barry's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yanhan0121&CN)](https://github.com/KnlnKS/leetcode-stats)
 <br>
-[![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryyan0121)](https://github.com/anuraghazra/github-readme-stats)
+[![Barry's GitHub stats](https://github-readme-stats-barryyan0121.vercel.app/api?username=barryyan0121)](https://github.com/barryyan0121/github-readme-stats)
 
 ## 📫 How to reach me:
 

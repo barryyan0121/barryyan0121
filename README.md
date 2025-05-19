@@ -4,7 +4,7 @@
 <br>
 ![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryyan0121&show_icons=true&theme=radical&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barryyan0121)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barryyan0121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
 

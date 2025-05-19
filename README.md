@@ -1,8 +1,9 @@
 ### Hi there! 👋 I'm Han Yan, a passionate full-stack developer from NYU. 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yanhan0121?site=cn&theme=light,unicorn&ext=heatmap&border=0&radius=20)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yanhan0121?site=cn&theme=dark,unicorn&ext=heatmap&border=0&radius=20)
 <br>
-![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryyan0121&show_icons=true&theme=radical)
+![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryyan0121&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barryyan0121)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
 

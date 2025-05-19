@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Han Yan, a passionate full-stack developer from NYU. 
 
-[![Barry's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=yanhan0121&CN)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yanhan0121?site=cn&theme=light,unicorn&ext=heatmap&border=0&radius=20)
 <br>
 ![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryyan0121&show_icons=true&theme=radical)
 

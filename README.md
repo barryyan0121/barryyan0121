@@ -1,10 +1,13 @@
-### Hi there! 👋 I'm Han Yan, a passionate full-stack developer from NYU. 
+### Hi there! 👋 I'm Han Yan, a passionate full-stack developer from NYU.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/yanhan0121?site=cn&theme=dark,unicorn&ext=heatmap&border=0&radius=20)
 <br>
-![Barry's GitHub stats](https://github-readme-stats.vercel.app/api?username=barryyan0121&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barryyan0121&layout=normal)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/barryyan0121">
+  <img height="180" src="./profile/stats.svg" alt="Barry's GitHub stats" />
+</a>
+<a href="https://github.com/barryyan0121">
+  <img height="180" src="./profile/top-langs.svg" alt="Top languages" />
+</a>
 
 ## 📫 How to reach me:
 
@@ -13,14 +16,6 @@
 <!--
 **barryyan0121/barryyan0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+The GitHub stats cards above are generated into local SVG files by `.github/workflows/update-readme-cards.yml`.
+This avoids depending on the public github-readme-stats Vercel endpoint, which can return 503 or hit rate limits.
 -->
